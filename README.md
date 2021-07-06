@@ -9,3 +9,6 @@
 - [kawabangga](https://www.kawabangga.com/)
 
 - [捕蛇者说](https://pythonhunter.org/) 
+
+## 文章
+- [HTTPS协议原理和流程分析](https://cloud.tencent.com/developer/article/1425339)
